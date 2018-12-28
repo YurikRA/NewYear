@@ -14,5 +14,6 @@ public class StartActivity extends AppCompatActivity {
         setContentView(R.layout.activity_start);
         List<String> list = new ArrayList<>();
         list.add("new");
+        list.add("new brench");
     }
 }
