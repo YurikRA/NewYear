@@ -13,5 +13,6 @@ public class StartActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
         List<String> list = new ArrayList<>();
+        list.add("new");
     }
 }
