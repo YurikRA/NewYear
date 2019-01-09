@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NewYear</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_app">Для удаления приложения нажмите ==></string>
+    <string name="congratulation">Happy New Year!!! </string>
+    <string name="editname">Введите свое имя </string>
+    <string name="congratulationMain">В Новым год желаю:
+        Не болеть и высыпаться,
+        оптимистом оставаться,
+        вдохновлять вокруг людей,
+        на свершение идей!</string>
 </resources>
